@@ -23,7 +23,11 @@
 		"editorWidget.border": "#000070",
 		"menu.background": "#002010",
 		"input.background": "#001020",
-		"breadcrumbPicker.background": "#002020"
+		"breadcrumbPicker.background": "#002020",
+		"scrollbarSlider.background": "#00500060",
+		"scrollbarSlider.hoverBackground": "#00500090",
+		"scrollbarSlider.activeBackground": "#005500CC",
+		"debugToolBar.background": "#002005"
 	},
 	"tokenColors": [
 		{
