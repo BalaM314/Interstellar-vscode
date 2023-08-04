@@ -2,7 +2,7 @@
     "name": "interstellar",
     "displayName": "Interstellar",
     "description": "An awesome (blue) dark theme for VS Code.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -14,7 +14,7 @@
             {
                 "label": "Interstellar",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Interstellar-color-theme.json"
+                "path": "./themes/interstellar-color-theme.json"
             }
         ]
     },
